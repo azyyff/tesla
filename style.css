@@ -1,0 +1,579 @@
+
+
+
+*{
+    font-family: "Roboto", sans-serif;
+    
+margin: 0;
+padding: 0;
+
+
+}
+
+#asu{
+    height: 70px;
+    position: fixed;
+    z-index: 10;
+    
+}
+
+#types{
+    gap: 25px;
+    color: white;
+    position: fixed;
+    padding-left: 400px;
+    z-index: 10;
+    an
+  
+   
+}
+
+#bantext h1{
+    position: absolute;
+    bottom:600px;
+    left: 538px;
+    color: white;
+    font-size: 55px;
+    font-weight: 200px;
+}
+
+
+#bantext h3{
+    position: absolute;
+    bottom:560px;
+    left: 400px;
+    color: white;
+    border-style: solid;
+    border-top: 0cap;
+    border-right: 0cap;
+    border-left: 0cap;
+    font-weight: 400px;
+}
+
+
+#bantext h5{
+    position: absolute;
+    bottom:530px;
+    left: 590px;
+    color: white;
+
+}
+#bannon{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 400px;
+
+}
+
+#banndd{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 690px;
+}
+
+#riss h1{
+
+    position: absolute;
+    bottom:550px;
+    left: 350px;
+    color: white;
+    font-size: 55px;
+    font-weight: 200px;
+}
+
+#riss h3{
+
+    position: absolute;
+    bottom:510px;
+    left: 210px;
+    color: white;
+    border-style: solid;
+    border-top: 0cap;
+    border-right: 0cap;
+    border-left: 0cap;
+    font-weight: 400px;
+
+
+}
+
+#riss h5{
+
+    position: absolute;
+    bottom:475px;
+    left: 400px;
+    color: white;
+}
+
+#yx{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 200px;
+
+
+
+}
+
+#qw{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 490px;
+
+
+}
+
+#eee  h1{
+
+    position: absolute;
+    bottom:550px;
+    left: 350px;
+    color: white;
+    font-size: 60px;
+    font-weight: 200px;
+
+
+}
+
+#eee h3{
+
+    position: absolute;
+    bottom:510px;
+    left: 366px;
+    color: white;
+    /* border-style: solid; */
+    border-top: 0cap;
+    border-right: 0cap;
+    border-left: 0cap;
+    font-weight: 400px;
+    
+}
+
+#ew{
+
+    position: absolute;
+    bottom:475px;
+    left: 320px;
+    color: white;
+      border-style: solid;
+     border-top: 0cap;
+     border-right: 0cap;
+     border-left: 0cap;
+     font-weight: 400px;
+
+
+}
+
+#ds{
+    position: absolute;
+    bottom:440px;
+    left: 330px;
+    color: white;
+      border-style: solid;
+     border-top: 0cap;
+     border-right: 0cap;
+     border-left: 0cap;
+     font-weight: 400px;
+
+
+
+}
+
+#icon{
+
+    gap: 20px;
+    color: white;
+    margin-right: 30px;
+    width: 20px;
+    position: fixed;
+    padding-left: 1000px;
+    z-index: 10;
+    
+    
+}
+
+#tes{
+
+    
+    padding-top: 5px;
+    position: fixed;
+    z-index: 10;
+    margin-top: -17px;
+    
+    
+  
+}
+
+
+#oo{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 200px;
+
+}
+
+#gf{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 490px;
+
+
+    
+
+}
+
+#www h1{
+
+    position: absolute;
+    bottom:499px;
+    left: 335px;
+    color: white;
+    font-size: 60px;
+    font-weight: 200px;
+}
+
+#www h3{
+
+    position: absolute;
+    bottom:470px;
+    left: 350px;
+    color: white;
+    
+    font-weight: 400px;
+}
+
+#www h5{
+    position: absolute;
+    bottom:450px;
+    left: 300px;
+    color: white;
+    border-style: solid;
+    border-top: 0cap;
+    border-right: 0cap;
+    border-left: 0cap;
+
+}
+
+#www sup{
+
+    font-size: 10px;
+    position: absolute;
+    top: 10px;
+}
+
+#ss{
+
+    
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 200px;
+    color: white;
+
+}
+
+#nn{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 490px;
+}
+
+
+
+#butt{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    bottom: 90px;
+    left: 200px;
+    color: rgb(163, 158, 158);
+    background-color: black;
+    border-style: solid white ;
+    
+    font-size: 13px;
+    font-weight: 300px;
+ 
+    
+}
+
+#butt2{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    bottom: 90px;
+    left: 500px;
+    color: rgb(163, 158, 158);
+    background-color: black;
+    border-style: solid;
+    font-weight: 300px;
+    
+   font-size: 13px;
+       
+    
+}
+
+#butt:hover{
+
+    background: transparent;
+    background-color: rgb(19, 18, 18);
+    opacity: 0.8;
+}
+
+#butt2:hover{
+
+    background: transparent;
+    background-color: rgb(19, 18, 18);
+    opacity: 0.8;
+}
+
+#asu{
+
+    position: sticky;
+    top: 0%;
+}
+
+#hse h1{
+
+    position: absolute;
+    bottom:530px;
+    left: 255px;
+    color: white;
+    font-size: 55px;
+    font-weight: 200px;
+
+}
+
+#hse h3{
+
+    position: absolute;
+    bottom:499px;
+    left: 220px;
+    color: white;
+    border-style: solid;
+    border-top: 0cap;
+    border-right: 0cap;
+    border-left: 0cap;
+}
+
+#jk{
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 200px;
+    color: white;
+}
+
+#aot{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 500px;
+    color: black;
+
+}
+
+#sola h1{
+
+position: absolute;
+    bottom:550px;
+    left: 340px;
+    color: white;
+    font-size: 55px;
+    font-weight: 200px;
+
+}
+
+#sola h2{
+
+    position: absolute;
+    bottom:510px;
+    left: 220px;
+    color: white;
+    
+}
+
+#dm{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 200px;
+    color: white;
+}
+
+#brs{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 500px;
+    color: black;
+}
+
+#pp h1{
+
+    
+position: absolute;
+bottom:500px;
+left: 320px;
+color: white;
+font-size: 55px;
+font-weight: 300px;
+}
+
+#mx{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 150px;
+    color: white;
+}
+
+#vx{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 450px;
+    color: black;    
+}
+
+#txx h1{
+
+    position: absolute;
+    bottom:500px;
+    left: 290px;
+    color: white;
+    font-size: 55px;
+    font-weight: 300px;
+
+}
+
+#bz{
+
+    width: 270px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 300px;
+    color: white;
+}
+
+#pp{
+
+    
+}
+
+#sec ul li{
+margin: 10px;
+
+}
+
+#sec ul{
+    padding-left: 355px;
+}
+
+#sec{
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding-top: 50px;
+    font-size: 12px;
+}
+
+.ftr{
+    background-color: black;
+}
+
+#bantext sup{
+
+
+    font-size: 10px;
+    position: absolute;
+    top: 7px;
+    font-weight: 100px;
+}
+
+ #riss sup{
+
+    font-size: 10px;
+    position: absolute;
+    top: 7px;
+    font-weight: 100px;
+ }
+
+ #eee sup{
+
+    
+    font-size: 10px;
+    position: absolute;
+    top: 9px;
+    font-weight: 100px;
+ }
+
+
+ #sp1{
+
+    border-style: solid;
+    border-top: 0cap;
+    border-right: 0cap;
+    border-left: 0cap;
+    transition: 0.5;
+    
+    
+ }
+
+ #pp span:hover{
+
+    transform: scale(0);
+ }
+
+
+ 
+
+
