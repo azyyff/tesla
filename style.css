@@ -87,7 +87,15 @@ padding: 0;
     color: white;
     font-size: 55px;
     font-weight: 200px;
+    overflow: hidden;
 }
+
+
+#riss h1 span{
+    display: inline-block;
+}
+
+
 
 #riss h3{
 
@@ -568,7 +576,7 @@ margin: 10px;
     
  }
 
- #pp span:hover{
+ #pps span:hover{
 
     transform: scale(0);
  }
